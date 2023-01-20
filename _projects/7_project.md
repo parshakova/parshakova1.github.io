@@ -3,7 +3,7 @@ layout: page
 title: friendship radio
 description: be on the same wavelength
 img: assets/img/radio1.jpg
-importance: 2
+importance: 7
 category: design
 ---
 

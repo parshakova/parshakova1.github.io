@@ -3,7 +3,7 @@ layout: page
 title: unplug stool
 description: plug out and give yourself some time
 img: assets/img/stool3.jpg
-importance: 2
+importance: 6
 category: design
 ---
 
@@ -30,10 +30,10 @@ Breathe to the soothing sound of pouring wine.
         {% include figure.html path="assets/img/stool4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/stool5.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/stool5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/stool6.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/stool6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

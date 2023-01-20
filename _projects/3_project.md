@@ -2,8 +2,8 @@
 layout: page
 title: Luna
 description: pocket universe
-img: assets/img/luna1.png
-importance: 2
+img: assets/img/luna1.jpg
+importance: 3
 category: human computer interaction
 ---
 
