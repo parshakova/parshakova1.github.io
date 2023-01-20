@@ -1,80 +1,27 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: roll the eyeball
+description: experience changing perception
+img: assets/img/eye1.jpg
+importance: 2
+category: human computer interaction
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/eye3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/eye4.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The device is called  “Eyeball”,  it is an extension of your natural eye,  since literally, it replaces your eyes with itself.
+<br><br>
+The idea is in letting yourself explore secret places which cannot be  entered with an entire body.  An additional feature of the Eyeball is that it moves by rolling, such that a world it streams is rolling as well, which gives rich disorienting and mismatching effect. Hence, in order to understand streamed data user has to compensate a mismatching information by thinking and by other senses.  This is a nice exercise for your brains.
+<br><br>
+In the game “Perception”, a user has to observe a hidden place and find a secret message.  In our game, this message is “Hate is love” because of a word  “hate” that is written on the wall, and which turns into “love” in reflection. This is exactly what happens when you look at things under new angles or their reflections.  The purpose of the game is to make a person realize that if s/he changes the way to look at things,  the things s/he looks at will change.
+<br><br>
+“Roll  the  Eyeball”  is composed of several  parts:  Eyeball,  device  to  control  a locomotion  of  ball  placed in  one  of  user’s  hands  (smartphone  with  Android  app  running  on  it),  device  which  shows  streamed  video  fixed  in  front  of  one  of the user’s  eyes  like  a  pirate  band  (smartphone  with  Android  app  running  on  it  behind  biconvex  lens),  and  a secret  place  itself (1m x 0.8m x 1.5m  box).
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+<center> <iframe width="382" height="315" src="https://www.youtube.com/embed/2GEP5hpyq-4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </center>
