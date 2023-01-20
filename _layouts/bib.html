@@ -192,6 +192,59 @@
           </div>
           {%- endif %}
 
+          <span class="links">
+            {% if entry.abstract %} 
+            [<a class="abstract publink">abstract</a>] 
+            {% endif %} 
+            {% if entry.arxiv %} [<a
+              class="publink"
+              href="http://arxiv.org/abs/{{ entry.arxiv }}"
+              target="_blank"
+              >arXiv</a
+            >] {% endif %} {% if entry.paper %} [<a
+              class="publink"
+              href="{{ entry.paper }}"
+              target="_blank"
+              >paper</a
+            >] {% endif %} {% if entry.blog %} [<a
+              class="publink"
+              href="{{ entry.blog }}"
+              target="_blank"
+              >blog</a
+            >] {% endif %} {% if entry.video %} [<a
+              class="publink"
+              href="{{ entry.video }}"
+              target="_blank"
+              >video</a
+            >] {% endif %} {% if entry.website %} [<a
+              class="publink"
+              href="{{ entry.website }}"
+              target="_blank"
+              >website</a
+            >] {% endif %} {% if entry.supp %} [<a
+              class="publink"
+              href="{{ entry.supp | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}"
+              target="_blank"
+              >supp</a
+            >] {% endif %} {% if entry.poster %} [<a
+              class="publink"
+              href="{{ entry.poster | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}"
+              target="_blank"
+              >poster</a
+            >] {% endif %} {% if entry.slides %} [<a
+              class="publink"
+              href="{{ entry.slides | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}"
+              target="_blank"
+              >slides</a
+            >] {% endif %} {% if entry.code %} [<a
+              class="publink"
+              href="{{ entry.code }}"
+              target="_blank"
+              >code</a
+            >] {% endif %}
+          </span>
+      
+
           {% if entry.abstract -%}
           <!-- Hidden abstract block -->
           <div class="abstract hidden">

@@ -8,6 +8,17 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
 
+$footerHeight: 10rem;
+
+#footer {
+  height: $footerHeight;
+  margin: 0;
+  clear: both;
+  width: 100%;
+  margin-top:$footerHeight;
+  position: relative;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -251,51 +262,59 @@ blockquote {
 // Social (bottom)
 
 .social {
+  padding: 3rem 0;
   text-align: center;
-  .contact-icons {
-    font-size: 4rem;
+  background-color: #222222;
+
+  .contact-icon {
+    font-size: 1rem;
+
+    .contact-separator,
+    h4 {
+      color: rgb(179, 179, 179);
+    }
+
     a {
-      i::before {
-        color: var(--global-text-color);
-        transition-property: all 0.2s ease-in-out;
-      }
+      color: white;
+
       &:hover {
-        i::before {
-          color: var(--global-theme-color);
-        }
+        color: --global-theme-color;
       }
     }
   }
+
   .contact-note {
-    font-size: 0.8rem;
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    color: #999;
   }
 }
 
 
 // Footer
 footer.fixed-bottom {
-  background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  background-color: var(--grey-color-dark);
+  font-size: 1rem;
   .container {
-    color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
+    color: var(--grey-color-dark);
+    padding-top: 3px;
+    padding-bottom: 3px;
   }
   a {
-    color: var(--global-footer-link-color);
+    color: var(--grey-color-light);
     &:hover {
-      color: var(--global-theme-color);
+      color: var(--grey-color-light);
       text-decoration: none;
     }
   }
 }
 
 footer.sticky-bottom {
-  border-top: 1px solid var(--global-divider-color);
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-size: 0.9rem;
+  // border-top: 1px solid var(--global-divider-color);
+  padding-bottom: 0px;
+  // font-size: 0.9rem;
 }
+
 
 // CV
 
