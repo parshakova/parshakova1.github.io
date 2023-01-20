@@ -29,3 +29,10 @@ Engineering</a> at KAIST.
 
 
 I am Ukrainian 💙💛.  
+
+
+<strong><a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}"
+target="_blank" title="Google Scholar"> Google Scholar</a></strong>
+<span class="contact-separator"> · </span>
+<strong><a rel="noopener" href="https://github.com/{{ site.github_username }}"
+target="_blank" title="GitHub"> Github</a></strong>

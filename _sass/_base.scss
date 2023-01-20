@@ -8,16 +8,6 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
 
-$footerHeight: 10rem;
-
-#footer {
-  height: $footerHeight;
-  margin: 0;
-  clear: both;
-  width: 100%;
-  margin-top:$footerHeight;
-  position: relative;
-}
 
 hr {
   border-top: 1px solid var(--global-divider-color);
@@ -180,6 +170,9 @@ blockquote {
     }
   }
   .navbar-brand {
+    font-size: 1.8rem;
+    padding: .2rem 0;
+    font-weight: 400!important;
     color: var(--global-text-color);
   }
   .navbar-nav .nav-item .nav-link {
@@ -290,30 +283,6 @@ blockquote {
   }
 }
 
-
-// Footer
-footer.fixed-bottom {
-  background-color: var(--grey-color-dark);
-  font-size: 1rem;
-  .container {
-    color: var(--grey-color-dark);
-    padding-top: 3px;
-    padding-bottom: 3px;
-  }
-  a {
-    color: var(--grey-color-light);
-    &:hover {
-      color: var(--grey-color-light);
-      text-decoration: none;
-    }
-  }
-}
-
-footer.sticky-bottom {
-  // border-top: 1px solid var(--global-divider-color);
-  padding-bottom: 0px;
-  // font-size: 0.9rem;
-}
 
 
 // CV
