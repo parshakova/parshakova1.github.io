@@ -24,7 +24,7 @@ My primary research objective is to develop efficient algorithms for computation
 I received Bachelor's in the <a
 href="http://id.kaist.ac.kr/index.php?document_srl=21142&mid=rnews"
 target="_blank">Department of Industrial Design</a> and Master's at the <a
-href="https://ee.kaist.ac.kr/?language=en" target="_blank">School of Electrical
+href="https://ee.kaist.ac.kr/en/" target="_blank">School of Electrical
 Engineering</a> at KAIST.
 
 

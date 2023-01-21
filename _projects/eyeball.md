@@ -7,6 +7,9 @@ importance: 4
 category: human computer interaction
 ---
 
+### Roll the eyeball
+<br />
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/eye3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -16,7 +19,7 @@ category: human computer interaction
     </div>
 </div>
 
-The device is called  “Eyeball”,  it is an extension of your natural eye,  since literally, it replaces your eyes with itself.
+The Eyeball is an extension of your natural eye, as it literally  replaces your eyes with itself.
 <br><br>
 The idea is in letting yourself explore secret places which cannot be  entered with an entire body.  An additional feature of the Eyeball is that it moves by rolling, such that a world it streams is rolling as well, which gives rich disorienting and mismatching effect. Hence, in order to understand streamed data user has to compensate a mismatching information by thinking and by other senses.  This is a nice exercise for your brains.
 <br><br>

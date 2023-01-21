@@ -7,6 +7,9 @@ importance: 2
 category: human computer interaction
 ---
 
+### UMorph: self-change tracker to reflect yourself to the future and past
+<br />
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/umorph2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -33,11 +36,10 @@ physicalization with a natural interface, as well as an
 unobtrusive way for systematic capturing of facial
 images over time.
 
-<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/fpCcpROzxiE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </center>
 
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/umorph1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="col-sm mt-3 mt-md-0">
+    {% include figure.html path="assets/img/umorph1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
 </div>
+
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/fpCcpROzxiE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </center>

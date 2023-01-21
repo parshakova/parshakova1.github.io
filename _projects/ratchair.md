@@ -7,6 +7,8 @@ importance: 1
 category: human computer interaction
 ---
 
+### Ratchair: furniture that learns to move itself
+<br />
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

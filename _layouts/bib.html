@@ -178,7 +178,10 @@
             {%- endif %}
           {%- endif %}
           {%- if entry.website %}
-            <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+            <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">website</a>
+          {%- endif %}
+          {%- if entry.paper %}
+            <a href="{{ entry.paper }}" class="btn btn-sm z-depth-0" role="button">paper</a>
           {%- endif %}
           </div>
           {% if site.badges %}
@@ -201,12 +204,14 @@
               href="http://arxiv.org/abs/{{ entry.arxiv }}"
               target="_blank"
               >arXiv</a
-            >] {% endif %} {% if entry.paper %} [<a
+            >] {% endif %} 
+            <!-- {% if entry.paper %} [<a
               class="publink"
               href="{{ entry.paper }}"
               target="_blank"
               >paper</a
-            >] {% endif %} {% if entry.blog %} [<a
+            >] {% endif %}  -->
+            {% if entry.blog %} [<a
               class="publink"
               href="{{ entry.blog }}"
               target="_blank"
@@ -216,12 +221,14 @@
               href="{{ entry.video }}"
               target="_blank"
               >video</a
-            >] {% endif %} {% if entry.website %} [<a
+            >] {% endif %} 
+            <!-- {% if entry.website %} [<a
               class="publink"
               href="{{ entry.website }}"
               target="_blank"
               >website</a
-            >] {% endif %} {% if entry.supp %} [<a
+            >] {% endif %}  -->
+            {% if entry.supp %} [<a
               class="publink"
               href="{{ entry.supp | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}"
               target="_blank"
