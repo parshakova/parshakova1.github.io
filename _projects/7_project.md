@@ -1,6 +1,6 @@
 ---
 layout: page
-title: friendship radio
+title:  radio
 description: be on the same wavelength
 img: assets/img/radio1.jpg
 importance: 7
