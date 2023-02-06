@@ -15,16 +15,16 @@ selected_papers: # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in <a href="https://icme.stanford.edu" target="_blank">Computational Mathematics</a> at Stanford and I am lucky to be advised by <a href="https://stanford.edu/~boyd/" target="_blank">Prof. Stephen Boyd</a>. 
+I am a Ph.D. candidate in <a href="https://icme.stanford.edu" target="_blank">Computational Mathematics</a> at Stanford, working with Prof. <a href="https://stanford.edu/~boyd/" target="_blank">Stephen Boyd</a>. 
 
 
 My primary research objective is to develop efficient algorithms for computational problems using techniques from optimization, discrete mathematics and statistics, to analyze and to bring theoretical guarantees about these methods.
 
 
-I received Bachelor's in the <a
+I received Bachelor's in <a
 href="http://id.kaist.ac.kr/index.php?document_srl=21142&mid=rnews"
-target="_blank">Department of Industrial Design</a> and Master's at the <a
-href="https://ee.kaist.ac.kr/en/" target="_blank">School of Electrical
+target="_blank">Industrial Design</a> and Master's in <a
+href="https://ee.kaist.ac.kr/en/" target="_blank">Electrical
 Engineering</a> at KAIST.
 
 
