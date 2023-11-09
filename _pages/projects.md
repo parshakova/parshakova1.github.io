@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [human computer interaction, design]
+display_categories: [human computer interaction (undergrad), design (undergrad)]
 horizontal: false
 ---
 

@@ -4,7 +4,7 @@ title:  radio
 description: be on the same wavelength
 img: assets/img/radio1.jpg
 importance: 7
-category: design
+category: design (undergrad)
 ---
 
 ### Friendship radio

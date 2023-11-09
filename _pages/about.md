@@ -18,10 +18,16 @@ social: true  # includes social icons at the bottom of the page
 I am a Ph.D. candidate in <a href="https://icme.stanford.edu" target="_blank">Computational Mathematics</a> at Stanford, working with Prof. <a href="https://stanford.edu/~boyd/" target="_blank">Stephen Boyd</a>. 
 
 
-My primary research objective is to develop efficient algorithms for computational problems using techniques from optimization, discrete mathematics and statistics, to analyze and to bring theoretical guarantees about these methods.
+My primary research objective is to develop efficient algorithms for computational problems using techniques from optimization, discrete mathematics and statistics.
+In particular, my research interests include
+* large-scale and distributed convex optimization,
+* network science, learning and inference for network data,
+* machine learning,
+* numerical and randomized linear algebra,
+* low rank and structured optimization.
 
 
-I received Bachelor's in <a
+Prior to my Ph.D., I received Bachelor's in <a
 href="http://id.kaist.ac.kr/index.php?document_srl=21142&mid=rnews"
 target="_blank">Industrial Design</a> and Master's in <a
 href="https://ee.kaist.ac.kr/en/" target="_blank">Electrical
