@@ -22,9 +22,9 @@ My primary research objective is to develop efficient algorithms for computation
 In particular, my research interests include
 * large-scale and distributed convex optimization,
 * network science, learning and inference for network data,
-* machine learning,
 * numerical and randomized linear algebra,
-* low rank and structured optimization.
+* low rank and structured optimization,
+* machine learning.
 
 
 Prior to my Ph.D., I received Bachelor's in <a
