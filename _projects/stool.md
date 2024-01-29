@@ -4,7 +4,7 @@ title: unplug stool
 description: plug out and give yourself some time
 img: assets/img/stool3.jpg
 importance: 6
-category: design (undergrad)
+category: design
 ---
  
 ### Unplug stool

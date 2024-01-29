@@ -4,7 +4,7 @@ title: Luna
 description: pocket universe
 img: assets/img/luna1.jpg
 importance: 3
-category: human computer interaction (undergrad)
+category: human computer interaction
 ---
 
 ### Luna: pocket universe

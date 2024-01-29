@@ -4,7 +4,7 @@ title: Ratchair
 description: furniture that learns to move itself
 img: assets/img/ratchair1.jpg
 importance: 1
-category: human computer interaction (undergrad)
+category: human computer interaction
 ---
 
 ### Ratchair: furniture that learns to move itself

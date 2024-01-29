@@ -4,7 +4,7 @@ title: eyeball
 description: experience changing perception
 img: assets/img/eye1.jpg
 importance: 4
-category: human computer interaction (undergrad)
+category: human computer interaction
 ---
 
 ### Roll the eyeball

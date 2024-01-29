@@ -4,7 +4,7 @@ title: UMorph
 description: self-change tracker to reflect yourself to the future and past
 img: assets/img/umorph0.jpg
 importance: 2
-category: human computer interaction (undergrad)
+category: human computer interaction
 ---
 
 ### UMorph: self-change tracker to reflect yourself to the future and past

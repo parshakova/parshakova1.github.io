@@ -40,5 +40,5 @@ Engineering</a> at KAIST.
 <br />
 
 
-
-##### <center><strong><a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" title="Google Scholar"> Google Scholar </a></strong> &nbsp;  💙💛 &nbsp;  <strong><a rel="noopener" href="https://github.com/{{ site.github_username }}" target="_blank" title="GitHub"> Github </a></strong></center>
+    
+<center><strong><a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"> <i class="ai ai-google-scholar" style="font-size: 4em;"></i> </a></strong>  <span style="font-size: 1.5em;">💙💛</span>  <strong><a href="https://github.com/{{ site.github_username }}" title="GitHub"> <i class="fa-brands fa-github" style="font-size: 4em;"></i> </a></strong></center>

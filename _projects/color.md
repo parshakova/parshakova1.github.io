@@ -4,7 +4,7 @@ title: green
 description: color toy
 img: assets/img/color1.jpg
 importance: 5
-category: design (undergrad)
+category: design
 ---
 
 ### Green color toy
