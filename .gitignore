@@ -1,2 +1,11 @@
 .DS_Store
 .tweet-cache/
+_site/
+*.gem
+.bundle/
+vendor/
+.sass-cache/
+node_modules/
+assets/css/*.css
+assets/css/*.css.map
+
