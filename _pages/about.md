@@ -15,7 +15,9 @@ selected_papers: # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in <a href="https://icme.stanford.edu" target="_blank">Computational Mathematics</a> at Stanford, working with Prof. <a href="https://stanford.edu/~boyd/" target="_blank">Stephen Boyd</a>. 
+
+I am a postdoctoral scientist at Amazon working with <a href="https://scholar.google.com/citations?user=7KI2Fa8AAAAJ&hl=en" target="_blank">Garrett van Ryzin</a>. 
+I am also visiting <a href="https://www.vandijklab.org" target="_blank">van Dijk Lab</a> at Yale.
 
 
 My primary research objective is to develop efficient algorithms for computational problems using techniques from optimization, discrete mathematics and statistics.
@@ -26,7 +28,9 @@ In particular, my research interests include
 * low rank and structured optimization,
 * machine learning.
 
-
+I received my Ph.D. in 
+<a href="https://icme.stanford.edu" target="_blank">Computational Mathematics</a> at Stanford, 
+where I was fortunate to be advised by <a href="https://stanford.edu/~boyd/" target="_blank">Stephen Boyd</a>.
 Prior to my Ph.D., I received Bachelor's in <a
 href="http://id.kaist.ac.kr/index.php?document_srl=21142&mid=rnews"
 target="_blank">Industrial Design</a> and Master's in <a
