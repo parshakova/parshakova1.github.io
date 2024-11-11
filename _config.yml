@@ -199,7 +199,7 @@ plugins:
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
-  - jekyll-imagemagick
+  # - jekyll-imagemagick
   - jekyll-minifier
   - jekyll-paginate-v2
   - jekyll/scholar
@@ -301,22 +301,23 @@ external_links:
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
 
-imagemagick:
-  enabled: true # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
-  widths:
-    - 480
-    - 800
-    - 1400
-  input_directories:
-    - assets/img/
-  input_formats:
-    - ".jpg"
-    - ".JPG"
-    - ".jpeg"
-    - ".png"
-    - ".tiff"
-  output_formats:
-    webp: "-resize 800x"
+# imagemagick:
+#   enabled: true # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
+#   widths:
+#     - 480
+#     - 800
+#     - 1400
+#   input_directories:
+#     - assets/img/
+#   input_formats:
+#     - ".jpg"
+#     - ".JPG"
+#     - ".jpeg"
+#     - ".png"
+#     - ".PNG"
+#     - ".tiff"
+#   output_formats:
+#     webp: "-resize 800x"
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
