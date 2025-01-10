@@ -153,6 +153,9 @@
           {%- if entry.paper %}
             <a href="{{ entry.paper }}" class="btn btn-sm z-depth-0" role="button">paper</a>
           {%- endif %}
+          {%- if entry.thesis %}
+            <a href="{{ entry.thesis }}" class="btn btn-sm z-depth-0" role="button">thesis</a>
+          {%- endif %}
           {%- if entry.supp %}
             {% if entry.supp contains '://' -%}
             <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
